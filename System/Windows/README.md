@@ -2,7 +2,7 @@
 
 - Download and launch :
 
-| List type  | Scope |
+| Script  | Informations |
 | ------------- | ------------- |
-| _Update OS, Soft_ | [Global whitelist](https://raw.githubusercontent.com/TheKartman/Resources/main/System/AdGuard/Whitelist.txt) |
-Update_OS_and_Softs.CMD
+| **Update_OS_and_Softs.CMD** | _Update OS, installed softwares, Antivirus & clean temporary files_ |
+
