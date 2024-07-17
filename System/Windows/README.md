@@ -1,22 +1,10 @@
 # Windows
-![](https://www.drapeauxdespays.fr/data/flags/emoji/openmoji/32x32/fr.png)
 
-- Cliquer sur le script souhaité
-- Cliquer sur le bouton **Télécharger le fichier RAW** (en haut à droite)
-
-| Script  | Informations |
-| ------------- | ------------- |
-| **EFI_Backup.CMD** | _Sauvegarde EFI pour prévenir des échecs lors du démarrage de Windows_ |
-| **OneDrive_Repair.CMD** | _Réparation de la synchronisation OneDrive_ |
-| **Update_OS_and_Softs.CMD** | _Mise à jour de Windows, des logiciels installés, de l'antivirus et nettoyage des fichiers temporaires_ |
-
----
-![](https://www.drapeauxdespays.fr/data/flags/emoji/openmoji/32x32/us.png)
-- Click on any script
-- Click on **Download RAW file** button (on top right)
+- Cliquer sur le script souhaité / *Click on any script*
+- Cliquer sur le bouton **Télécharger le fichier RAW** (en haut à droite) / _Click on **Download RAW file** button (on top right)_
 
 | Script  | Informations |
 | ------------- | ------------- |
-| **EFI_Backup.CMD** | _Backup EFI to prevent fail Windows boot process_ |
-| **OneDrive_Repair.CMD** | _Repair OneDrive synchronization_ |
-| **Update_OS_and_Softs.CMD** | _Update Windows, installed softwares, Antivirus & clean temporary files_ |
+| **EFI_Backup.CMD** | Sauvegarde *EFI* pour prévenir des échecs lors du démarrage de *Windows* <br/> _Backup EFI to prevent fail Windows boot process_ |
+| **OneDrive_Repair.CMD** | Réparation de la synchronisation *OneDrive* <br/> _Repair OneDrive synchronization_ |
+| **Update_OS_and_Softs.CMD** | Mise à jour de *Windows*, des logiciels installés, de l'antivirus et nettoyage des fichiers temporaires <br/> _Update Windows, installed softwares, Antivirus & clean temporary files_ |
