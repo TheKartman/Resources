@@ -1,0 +1,27 @@
+@ECHO OFF
+ECHO ##################
+ECHO ## EN-002-00.01 ##
+ECHO ##################
+ECHO .
+
+REM Vérification des droits ADMIN
+GOTO check_Permissions
+
+:check_Permissions
+    ECHO Permissions administrateur requises, verification...
+    ECHO .
+    net session >nul 2>&1
+    if %errorLevel% == 0 (
+        ECHO OK : droits ADMIN presents
+        ECHO .
+    ) else (
+        ECHO ECHEC : droits ADMIN requis, effectuer un clic droit sur ce lanceur, puis executer en tant qu'administrateur.
+        ECHO .
+        ECHO Appuyer sur ENTREE pour QUITTER.
+        PAUSE > NUL
+        EXIT
+    )
+CLS
+
+
+"C:\Program Files\Microsoft OneDrive\OneDrive.exe" /reset
