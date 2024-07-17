@@ -1,1 +1,91 @@
-aaaaa
+@ECHO OFF
+ECHO ##################
+ECHO ## EN-001-00.05 ##
+ECHO ##################
+ECHO ### 12-06-2024 ###
+ECHO ##################
+ECHO .
+
+REM Vérification des droits ADMIN
+GOTO check_Permissions
+
+:check_Permissions
+    ECHO Permissions administrateur requises, verification...
+    ECHO .
+    net session >nul 2>&1
+    if %errorLevel% == 0 (
+        ECHO OK : droits ADMIN presents
+        ECHO .
+    ) else (
+        ECHO ECHEC : droits ADMIN requis, effectuer un clic droit sur ce lanceur, puis executer en tant qu'administrateur.
+        ECHO .
+        ECHO Appuyer sur ENTREE pour QUITTER.
+        PAUSE > NUL
+        EXIT
+    )
+CLS
+
+
+ECHO ETAPE 1 - MAJ Heure
+ECHO ===================
+net start w32time
+w32tm /config /manualpeerlist:"time.windows.com" /syncfromflags:manual /reliable:yes /update
+w32tm /resync
+CLS
+
+
+ECHO ETAPE 2 - MAJ Antivirus
+ECHO =======================
+cd %ProgramFiles%\Windows Defender
+MpCmdRun.exe -removedefinitions -dynamicsignatures
+MpCmdRun.exe -SignatureUpdate
+CLS
+
+
+ECHO ETAPE 3 - MAJ Windows
+ECHO =====================
+NET STOP WUAUSERV
+C:
+CD %Windir%\SoftwareDistribution
+DEL /f /s /q Download
+NET START WUAUSERV
+wuauclt.exe /resetauthorization /detectnow /updatenow
+UsoClient /StartScan
+UsoClient /StartDownload
+UsoClient /StartInstall
+CLS
+
+
+ECHO ETAPE 4 - MAJ logiciels
+ECHO =======================
+ECHO Listage des MAJ :
+winget list --upgrade-available
+ECHO MAJ des paquets :
+winget upgrade --all
+CLS
+
+
+ECHO ETAPE 5 - MAJ Office
+ECHO ====================
+"C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe" /update user displaylevel=false forceappshutdown=true
+CLS
+
+ECHO ETAPE 6 - Nettoyage des fichiers temporaires Windows
+ECHO ====================================================
+cleanmgr /sagerun:1
+CLS
+
+
+REM Fin
+CLS
+ECHO FIN - Liste des mises a jour non installees (a installer manuellement) :
+winget list --upgrade-available
+ECHO Etat de sante de l'image d'installtion Windows :
+DISM /Online /Cleanup-Image /CheckHealth
+ECHO En cas de probleme d'image d'installation Windows, lancer : DISM /Online /Cleanup-Image /RestoreHealth
+ECHO Si des fichiers sont marques comme corrompus, lancer :
+ECHO - SFC /scannow
+ECHO - chkdsk E: /f
+ECHO Cle Windows :
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+PAUSE
