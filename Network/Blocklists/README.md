@@ -1,4 +1,8 @@
 # Blocklists
+![](https://www.drapeauxdespays.fr/data/flags/emoji/openmoji/32x32/fr.png)
+
+---
+![](https://www.drapeauxdespays.fr/data/flags/emoji/openmoji/32x32/us.png)
 
 List of *IP* address ranges by country and suspicious *IP* address ranges, as *CIDR* format.
 
