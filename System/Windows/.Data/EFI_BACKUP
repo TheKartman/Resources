@@ -1,0 +1,33 @@
+@ECHO OFF
+ECHO ##################
+ECHO ## EN-003-00.01 ##
+ECHO ##################
+ECHO ### 03-05-2024 ###
+ECHO ##################
+ECHO .
+
+REM Vérification des droits ADMIN
+GOTO check_Permissions
+
+:check_Permissions
+    ECHO Permissions administrateur requises, verification...
+    ECHO .
+    net session >nul 2>&1
+    if %errorLevel% == 0 (
+        ECHO OK : droits ADMIN presents
+        ECHO .
+    ) else (
+        ECHO ECHEC : droits ADMIN requis, effectuer un clic droit sur ce lanceur, puis executer en tant qu'administrateur.
+        ECHO .
+        ECHO Appuyer sur ENTREE pour QUITTER.
+        PAUSE > NUL
+        EXIT
+    )
+CLS
+
+BCDEDIT /EXPORT C:\BACKUP_BCD.BCD
+
+CLS
+ECHO FIN - Veuillez déplacer le fichier C:\BACKUP_BCD.BCD sur un autre disque
+
+PAUSE
