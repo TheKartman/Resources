@@ -1018,3 +1018,6 @@
 @@||cryptoast.fr^
 @@||lecafedugeek.fr^
 @@||www.zdnet.fr^
+@@||friends.roblox.com^
+@@||*.rbxcdn.com^
+@@||assetdelivery.roblox.com^
