@@ -1,6 +1,7 @@
 # Windows
 
-- Download and launch :
+- Click on any script
+- Click on **Download RAW file** button
 
 | Script  | Informations |
 | ------------- | ------------- |
