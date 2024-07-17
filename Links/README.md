@@ -12,3 +12,4 @@
 ![](https://www.drapeauxdespays.fr/data/flags/emoji/openmoji/32x32/us.png)
 
 <a href="http://google.com/" target="_blank">Hello, google!</a>
+[test](http://test.com){:target="_blank"}
