@@ -9,3 +9,5 @@ The suffix indicates the country code, except those lists you **must block**:
 | *CRIT* | Pedophilia |
 | *ADS* | Ads / Tracking |
 | *SPYWARE* | Spywares |
+
+- To obtain the good URL to add to your Blocklist tool, click on **Raw** button in each list
