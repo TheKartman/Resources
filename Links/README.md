@@ -13,3 +13,5 @@
 
 <a href="http://google.com/" target="_blank">Hello, google!</a>
 [test](http://test.com){:target="_blank"}
+
+[link](http://google.com/){:target="_blank" rel="noopener noreferrer"}
