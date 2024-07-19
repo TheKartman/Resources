@@ -5004,6 +5004,7 @@
 /pagead.js$domain=d3ward.github.io
 @@*$redirect-rule,domain=d3ward.github.io
 d3ward.github.io##.textads
+||https:^
 ||avastbrowser.com^
 ||*.avastbrowser.com^
 ||browser-update.avast.com^
@@ -5022,3 +5023,4 @@ d3ward.github.io##.textads
 ||*img*.coco.*^
 ||*pix*.coco.*^
 ||*vid*.coco.*^
+||*.pornhub.com^
