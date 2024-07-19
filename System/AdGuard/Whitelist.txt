@@ -762,6 +762,9 @@
 @@||*.on.epicgames.com^
 @@||*.ol.epicgames.com^
 @@||connect.epicgames.dev^
+@@||res.17track.net^
+@@||www.17track.net^
+@@||t.17track.net^
 ! --- Main / Root
 @@||ipv4only.arpa^
 @@||*.gouv.fr^
@@ -1086,3 +1089,7 @@
 @@||www.arcep.fr^
 @@||fastpic.org^
 @@||static.fastpic.ru^
+@@||forums.raspberrypi.com^
+@@||bugs.launchpad.net^
+@@||bbs.archlinux.org^
+@@||ubuntuforums.org^
