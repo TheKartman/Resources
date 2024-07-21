@@ -5005,6 +5005,7 @@
 @@*$redirect-rule,domain=d3ward.github.io
 d3ward.github.io##.textads
 ||https:^
+||uknown.uknown^
 ||avastbrowser.com^
 ||*.avastbrowser.com^
 ||browser-update.avast.com^
