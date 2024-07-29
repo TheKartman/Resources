@@ -645,14 +645,6 @@
 @@||api.smartthings.com^
 @@||client.smartthings.com^
 @@||samsappsbn.vo.llnwd.net^
-@@||webcast*-normal-*.tiktokv.com^
-@@||search*-normal-*.tiktokv.com^
-@@||api*-core-*.tiktokv.com^
-@@||tnc*-platform-*.tiktokv.com^
-@@||bsync*-normal-*.tiktokv.com^
-@@||vcs-i18n.tiktokv.com^
-@@||ugattribution-i18n.tiktokv.com^
-@@||libra*-normal-*.tiktokv.com^
 ! --- Bank
 
 @@||payzen.eu^
@@ -1236,3 +1228,12 @@
 @@||www.lesalexiens.fr^
 @@||alloforfait.fr^
 @@||*.bootstrap.libp2p.io^
+@@||webcast*-normal-*.tiktokv.com^
+@@||search*-normal-*.tiktokv.com^
+@@||api*-core-*.tiktokv.com^
+@@||tnc*-platform-*.tiktokv.com^
+@@||bsync*-normal-*.tiktokv.com^
+@@||vcs-i18n.tiktokv.com^
+@@||ugattribution-i18n.tiktokv.com^
+@@||libra*-normal-*.tiktokv.com^
+@@||pull-*.fcdn.eu.tiktokcdn.com^
