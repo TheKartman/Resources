@@ -7,3 +7,4 @@
 | Audio | [Formatify](https://formatify.pages.dev/convert) | Conversion de fichiers audios </br> *Convert audio files* |
 |  | [Vocali.se](https://vocali.se/en) | Séparation de la voix de la musique </br> *Split voice and music* |
 | Autres / *Others* | [Filigrane (GOUV)](https://filigrane.beta.gouv.fr/) | Ajout d'un filigrane sur un document officiel </br> *Add a watermark on an official document* |
+| | [Draw.io](https://app.diagrams.net/) | Création de diagrammes </br> *Diagrams creation* |
