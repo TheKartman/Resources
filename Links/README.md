@@ -22,29 +22,8 @@
 | | [ImageOnline](https://rotate.imageonline.co/) | Rotation d'image </br> *Image rotate* |
 | | [Palette.fm](https://palette.fm/) | Coloriser une photo </br> *Photo colorization* |
 | | [Formatify](https://formatify.pages.dev/convert) | Conversion d'image </br> *Image convert* |
+| | [MagicStudio](https://magicstudio.com/fr/magiceraser/) | Retrait d'objets dans une image (gomme magique) </br> *Remove objects from an image* |
 | Vidéo / *Video* | [Formatify](https://formatify.pages.dev/convert) | Conversion de fichiers vidéos </br> *Convert video files* |
 | Autres / *Others* | [Filigrane (GOUV)](https://filigrane.beta.gouv.fr/) | Ajout d'un filigrane sur un document officiel </br> *Add a watermark on an official document* |
 | | [Draw.io](https://app.diagrams.net/) | Création de diagrammes </br> *Diagrams creation* |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IMAGE - Supprimer les objets des photos (gomme magique) [MAGICSTUDIO.COM]
-[MagicStudio](https://magicstudio.com/fr/magiceraser/)
-| |  | xxx </br> *xxx* |
-
-
-
-DOCUMENT - Convertir un format de fichier (images, etc.) [CONVERTIO.CO]
-[Convertio](https://convertio.co/fr/)
-| |  | xxx </br> *xxx* |
+| | [Convertio](https://convertio.co/fr/) | Conversion de fichier </br> *File convert* |
