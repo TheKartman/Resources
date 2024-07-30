@@ -5026,4 +5026,7 @@ d3ward.github.io##.textads
 ||*vid*.coco.*^
 ||*.pornhub.com^
 ||hcpvkcznxj.com^
+! --- Suspicious on Virus Total
+
 ||api.ipify.org^
+||i-sam.unimedias.fr^
