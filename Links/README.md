@@ -9,7 +9,7 @@
 | Image / *Picture* | [IMGGen.ai](https://imggen.ai/tools/upscale-image) | Agrandissement d'image </br> *Image upscaling* |
 | | [IMGGen.ai](https://imggen.ai/tools/retouch-photo) | Amélioration de la luminosité d'une image </br> *Image brightness enhancement* |
 | | [IMGGen.ai](https://imggen.ai/tools/color-correction) | Correction de la couleur d'une image </br> *Image color correction* |
-| | [IMGGen.ai](https://imggen.ai/tools/personalized-image-generator) | Création de FanArt </br> *FanArt creation* |
+| | [IMGGen.ai](https://imggen.ai/tools/personalized-image-generator) | Création de *FanArt* </br> *FanArt creation* |
 | | [IMGGen.ai](https://imggen.ai/tools/ai-headshot-generator) | Création d'une photo portrait depuis un photo traditionnelle </br> *Creating a portrait photo from a traditional photo* |
 | | [Palette.fm](https://palette.fm/) | Coloriser une photo </br> *Photo colorization* |
 | | [Formatify](https://formatify.pages.dev/convert) | Conversion d'image </br> *Image convert* |
