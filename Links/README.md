@@ -13,3 +13,13 @@
 | Autres / *Others* | [Filigrane (GOUV)](https://filigrane.beta.gouv.fr/) | Ajout d'un filigrane sur un document officiel </br> *Add a watermark on an official document* |
 | | [Draw.io](https://app.diagrams.net/) | Création de diagrammes </br> *Diagrams creation* |
 
+IMAGE - Coloriser une photo [PALETTE.FM]
+https://palette.fm/
+
+
+IMAGE - Conversion [FORMATIFY.PAGES.DEV]
+https://formatify.pages.dev/convert
+
+
+IMAGE - Créer un FanArt portrait depuis un photo banale [IMGGEN.AI]
+https://imggen.ai/tools/personalized-image-generator
