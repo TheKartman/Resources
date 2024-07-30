@@ -5026,3 +5026,4 @@ d3ward.github.io##.textads
 ||*vid*.coco.*^
 ||*.pornhub.com^
 ||hcpvkcznxj.com^
+||api.ipify.org^
