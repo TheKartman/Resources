@@ -8,6 +8,7 @@
 |  | [Vocali.se](https://vocali.se/en) | Séparation de la voix de la musique </br> *Split voice and music* |
 | Image / *Picture* | [IMGGen.ai](https://imggen.ai/tools/upscale-image) | Agrandissement d'image </br> *Image upscaling* |
 | | [IMGGen.ai](https://imggen.ai/tools/retouch-photo) | Amélioration de la luminosité d'une image </br> *Image brightness enhancement* |
+| | [IMGGen.ai](https://imggen.ai/tools/color-correction) | Correction de la couleur d'une image </br> *Image color correction* |
 | Vidéo / *Video* | [Formatify](https://formatify.pages.dev/convert) | Conversion de fichiers vidéos </br> *Convert video files* |
 | Autres / *Others* | [Filigrane (GOUV)](https://filigrane.beta.gouv.fr/) | Ajout d'un filigrane sur un document officiel </br> *Add a watermark on an official document* |
 | | [Draw.io](https://app.diagrams.net/) | Création de diagrammes </br> *Diagrams creation* |
