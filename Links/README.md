@@ -14,50 +14,63 @@
 | | [Draw.io](https://app.diagrams.net/) | Création de diagrammes </br> *Diagrams creation* |
 
 IMAGE - Coloriser une photo [PALETTE.FM]
-https://palette.fm/
+[Palette.fm](https://palette.fm/)
 
 
 IMAGE - Conversion [FORMATIFY.PAGES.DEV]
-https://formatify.pages.dev/convert
+[Formatify](https://formatify.pages.dev/convert)
 
 
 IMAGE - Créer un FanArt portrait depuis un photo banale [IMGGEN.AI]
-https://imggen.ai/tools/personalized-image-generator
+[IMGGen.ai](https://imggen.ai/tools/personalized-image-generator)
+
 
 IMAGE - Créer une photo portrait depuis un photo banale [IMGGEN.AI]
-https://imggen.ai/tools/ai-headshot-generator
+[IMGGen.ai](https://imggen.ai/tools/ai-headshot-generator)
+
 
 IMAGE - Faire pivoter une photo [ROTATE.IMAGEONLINE.CO]
-https://rotate.imageonline.co/
+[ImageOnline](https://rotate.imageonline.co/)
+
 
 IMAGE - Générer des images [IMGGEN.AI]
-https://imggen.ai/
+[IMGGen.ai](https://imggen.ai/)
+
 
 IMAGE - Recadrer une photo [CROPPER.MADZA.DEV]
-https://cropper.madza.dev/
+[Cropper](https://cropper.madza.dev/)
+
 
 IMAGE - Restaurer une vieille photo [IMGGEN.AI]
-https://imggen.ai/tools/image-restoration
+[IMGGen.ai](https://imggen.ai/tools/image-restoration)
+
 
 IMAGE - Retirer le filigrane [IMGGEN.AI]
-https://imggen.ai/tools/watermark-remover
+[IMGGen.ai](https://imggen.ai/tools/watermark-remover)
+
 
 IMAGE - Retirer le fond [IMGGEN.AI]
-https://imggen.ai/tools/background-remover
+[IMGGen.ai](https://imggen.ai/tools/background-remover)
+
 
 IMAGE - Supprimer l'arrière-plan d'une photo [REMOVE.BG]
-https://www.remove.bg/fr
+[Remove.BG](https://www.remove.bg/fr)
+
 
 IMAGE - Supprimer le flou [IMGGEN.AI]
-https://imggen.ai/tools/unblur-image
+[IMGGen.ai](https://imggen.ai/tools/unblur-image)
+
 
 IMAGE - Supprimer les défauts de la peau [IMGGEN.AI]
-https://imggen.ai/tools/sharpen-portraits
+[IMGGen.ai](https://imggen.ai/tools/sharpen-portraits)
+
 
 IMAGE - Supprimer les objets des photos (gomme magique) [MAGICSTUDIO.COM]
-https://magicstudio.com/fr/magiceraser/
+[MagicStudio](https://magicstudio.com/fr/magiceraser/)
+
 
 
 
 DOCUMENT - Convertir un format de fichier (images, etc.) [CONVERTIO.CO]
-https://convertio.co/fr/
+[Convertio](https://convertio.co/fr/)
+
