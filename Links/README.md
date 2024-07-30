@@ -23,3 +23,12 @@ https://formatify.pages.dev/convert
 
 IMAGE - Créer un FanArt portrait depuis un photo banale [IMGGEN.AI]
 https://imggen.ai/tools/personalized-image-generator
+
+IMAGE - Créer une photo portrait depuis un photo banale [IMGGEN.AI]
+https://imggen.ai/tools/ai-headshot-generator
+
+IMAGE - Faire pivoter une photo [ROTATE.IMAGEONLINE.CO]
+https://rotate.imageonline.co/
+
+DOCUMENT - Convertir un format de fichier (images, etc.) [CONVERTIO.CO]
+https://convertio.co/fr/
