@@ -756,12 +756,6 @@
 @@||whiteboard.ms^
 @@||wbd.ms^
 @@||gateway-skype.bingviz.microsoftapp.net^
-@@||tailscale.io^	
-@@||*.tailscale.io^	
-@@||tailscale.com^	
-@@||*.tailscale.com^
-@@||_ldap._tcp.dc._msdcs.tail*.ts.net^
-@@||tail*.ts.net^
 @@||*.sorare.com^
 @@||upland.me^
 @@||*.upland.me^
@@ -1263,3 +1257,10 @@
 @@||mmfiles.amp.mcafee.com^
 @@||live.staticflickr.com^
 @@||cimg.co^
+@@||tailscale.io^	
+@@||*.tailscale.io^	
+@@||tailscale.com^	
+@@||*.tailscale.com^
+@@||_ldap._tcp.dc._msdcs.tail*.ts.net^
+@@||tail*.ts.net^
+@@||wpad.*.beta.tailscale.net^
