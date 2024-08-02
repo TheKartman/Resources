@@ -893,6 +893,13 @@
 @@||api16-normal-c-*.tiktokv.com^
 @@||p*-sign-va.tiktokcdn.com^
 @@||api32-normal-*.tiktokv.com^
+@@||tailscale.io^	
+@@||*.tailscale.io^	
+@@||tailscale.com^	
+@@||*.tailscale.com^
+@@||_ldap._tcp.dc._msdcs.tail*.ts.net^
+@@||tail*.ts.net^
+@@||wpad.*.beta.tailscale.net^
 ! --- Main / Root
 @@||ipv4only.arpa^
 @@||localhost^
@@ -1257,10 +1264,4 @@
 @@||mmfiles.amp.mcafee.com^
 @@||live.staticflickr.com^
 @@||cimg.co^
-@@||tailscale.io^	
-@@||*.tailscale.io^	
-@@||tailscale.com^	
-@@||*.tailscale.com^
-@@||_ldap._tcp.dc._msdcs.tail*.ts.net^
-@@||tail*.ts.net^
-@@||wpad.*.beta.tailscale.net^
+@@||*-mediap.svc.ms^
