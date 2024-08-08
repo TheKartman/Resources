@@ -255,15 +255,6 @@
 @@||*.traffmonetizer.com^
 @@||uphold.com^
 @@||*.uphold.com^
-@@||gateway.ivacy.com^
-@@||fr*-auto-udp-obf.dns2use.com^
-@@||update.ixsystems.com^
-@@||account.ivacy.com^
-@@||*.pointtoserver.com^
-@@||prodregistryv2.org^
-@@||cdn*.tn.ixsystems.com^
-@@||*.ptoserver.com^
-@@||dc-*.pointtoserver.com^
 @@||media.discordapp.net^
 @@||cdn.discordapp.com^
 @@||discordapp.com^
