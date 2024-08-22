@@ -768,19 +768,6 @@
 @@||client.smartthings.com^
 @@||samsappsbn.vo.llnwd.net^
 @@||eu*rgn.file.samsungcloud.com^
-@@||webcast*-normal-*.tiktokv.com^
-@@||search*-normal-*.tiktokv.com^
-@@||api*-core-*.tiktokv.com^
-@@||tnc*-platform-*.tiktokv.com^
-@@||bsync*-normal-*.tiktokv.com^
-@@||vcs-i18n.tiktokv.com^
-@@||ugattribution-i18n.tiktokv.com^
-@@||libra*-normal-*.tiktokv.com^
-@@||pull-*.fcdn.eu.tiktokcdn.com^
-@@||tnc16-normal-*.tiktokv.eu^
-@@||api16-normal-c-*.tiktokv.com^
-@@||p*-sign-va.tiktokcdn.com^
-@@||api32-normal-*.tiktokv.com^
 @@||tailscale.io^	
 @@||*.tailscale.io^	
 @@||tailscale.com^	
@@ -895,6 +882,20 @@
 @@||pcs.bamgrid.com^
 @@||*ipfs-*.*.settlemint.com^
 @@||secure.globalsign.com^
+@@||webcast*-normal-*.tiktokv.com^
+@@||search*-normal-*.tiktokv.com^
+@@||api*-core-*.tiktokv.com^
+@@||tnc*-platform-*.tiktokv.com^
+@@||bsync*-normal-*.tiktokv.com^
+@@||vcs-i18n.tiktokv.com^
+@@||ugattribution-i18n.tiktokv.com^
+@@||libra*-normal-*.tiktokv.com^
+@@||pull-*.fcdn.eu.tiktokcdn.com^
+@@||tnc16-normal-*.tiktokv.eu^
+@@||api16-normal-c-*.tiktokv.com^
+@@||p*-sign-va.tiktokcdn.com^
+@@||api32-normal-*.tiktokv.com^
+@@||webcast*-ws-*.tiktokv.com^
 ! --- Main / Root
 @@||ipv4only.arpa^
 @@||localhost^
@@ -1263,3 +1264,4 @@
 @@||update.appwork.org^
 @@||*.mydns.jdownloader.org^
 @@||update*.jdownloader.org^
+@@||feedpress.me^
