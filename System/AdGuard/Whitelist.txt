@@ -986,7 +986,6 @@
 @@||*.rte-france.com^
 @@||*.service-now.com^
 @@||api.tor.us^
-@@||*.ptoserver.com^
 @@||*.digicert.com^
 @@||*.licdn.com^
 @@||webassessor.com^
@@ -1128,7 +1127,6 @@
 @@||prod.disqus.map.fastlylb.net^
 @@||s*.depic.me^
 @@||staging.hyper.media^
-@@||atomapi.com^
 @@||upload.wikimedia.org^
 @@||thumb-*.xhcdn.com^
 @@||video-*.xhcdn.com^
