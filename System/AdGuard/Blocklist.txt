@@ -1198,10 +1198,6 @@ d3ward.github.io##.textads
 ||*vid*.coco.*^
 ||*.pornhub.com^
 ||hcpvkcznxj.com^
-! --- Suspicious on Virus Total
-
-||api.ipify.org^
-||i-sam.unimedias.fr^
 ||*.01binarygroup.com^
 ||*.01broker.com^
 ||*.01crypto.com^
@@ -5132,3 +5128,26 @@ d3ward.github.io##.textads
 ||*.coin-house.cc^
 ||gestionsogenial.com^
 ||*.gestionsogenial.com^
+! --- Suspicious on Virus Total
+
+||api.ipify.org^
+||i-sam.unimedias.fr^
+||edgedl.me.gvt1.com^
+||www.docile.eu^
+||deculottees.fr^
+||*.wannonce.com^
+||punishworld.com^
+||*.libertic.com^
+||*.libertic-cdn.com^
+||bdsmx.tube^
+||tubevintageporn.com^
+||bellesmachines.com^
+||*.marcheauxesclaves.com^
+||*.bdsmsutra.com^
+||fetlife.com^
+||*.verysexytoy.com^
+||*.breakflip.com^
+||*.s*.serverwild.com^
+||savycrafter.com^
+||club-spk.com^
+||*.club-spk.com^
