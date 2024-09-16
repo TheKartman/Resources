@@ -1250,7 +1250,6 @@
 @@||www.zdnet.fr^
 @@||lensdump.com^
 @@||cdn.lensdump.com^
-@@||gateway.ivacy.com^
 @@||www.drapeauxdespays.fr^
 @@||www.menow.fr^
 @@||www.arcep.fr^
