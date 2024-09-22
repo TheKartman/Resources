@@ -1326,3 +1326,17 @@
 @@||js.recurly.com^
 @@||cdn-production-opera-website.operacdn.com^
 @@||www.opera.com^
+@@||api.gamegrids.net^
+@@||nts.gamegrids.net^
+@@||static.gamegrids.net^
+@@||dl-wotblitz-gc.wargaming.net^
+@@||wotblitzeu.xmpp.wargaming.net^
+@@||wotblitz-gc.gcdn.co^
+@@||tmsis.wotblitz.eu^
+@@||auth.gamegrids.net^
+@@||stufficons.wgcdn.co^
+@@||eu.wotblitz.com^
+@@||login*.wotblitz.eu^
+@@||roaster.wotb.app^
+@@||eu.wargaming.net^
+@@||cdn.static.wotb.app^
