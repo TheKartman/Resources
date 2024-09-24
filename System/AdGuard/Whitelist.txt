@@ -1349,3 +1349,13 @@
 @@||shared.steamstatic.com^
 @@||p2p-*.discovery.steamserver.net^
 @@||clan.steamstatic.com^
+@@||auth.leboncoin.fr^
+@@||www.leboncoin.fr^
+@@||api.leboncoin.fr^
+@@||caa-configurations.gsg-extension.com^
+@@||rt-ws.messaging.advgo.net^
+@@||profile-api-leboncoin.trust.advgo.net^
+@@||img.leboncoin.fr^
+@@||presence-api-leboncoin.trust.advgo.net^
+@@||st-filebanking.igstatic.com^
+@@||*.wikipedia.org^
