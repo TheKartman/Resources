@@ -1364,3 +1364,5 @@
 @@||p2p-*.discovery.steamserver.net^
 @@||clan.steamstatic.com^
 @@||cmp*-ams*.steamserver.net^
+@@||wpad.lan^
+@@||lan.lan^
