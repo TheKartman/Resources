@@ -978,6 +978,7 @@
 @@||*.ecoledirecte.com^
 
 ! --- Others
+@@||www.phonedroid.fr^
 @@||api.gallery.intl.miui.com^
 @@||assets.adobedtm.com^
 @@||nowlearning.servicenow.com^
