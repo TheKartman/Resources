@@ -807,8 +807,6 @@
 @@||p2p-*.discovery.steamserver.net^
 @@||clan.steamstatic.com^
 @@||cmp*-ams*.steamserver.net^
-@@||wpad.lan^
-@@||lan.lan^
 @@||webcast*-normal-*.tiktokv.com^
 @@||search*-normal-*.tiktokv.com^
 @@||api*-core-*.tiktokv.com^
@@ -1394,3 +1392,6 @@
 @@||trades.roblox.com^
 @@||ncs.roblox.com^
 @@||roblox.com^
+@@||wpad.lan^
+@@||lan.lan^
+@@||ddns.glddns.com^
