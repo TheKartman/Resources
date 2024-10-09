@@ -1301,9 +1301,6 @@
 @@||trades.roblox.com^
 @@||ncs.roblox.com^
 @@||roblox.com^
-@@||wpad.lan^
-@@||lan.lan^
-@@||ddns.glddns.com^
 # Docker / Kubernetes
 @@||registry.k8s.io^
 @@||pkgs.k8s.io^
@@ -1407,3 +1404,8 @@
 @@||samsappsbn.vo.llnwd.net^
 @@||eu*rgn.file.samsungcloud.com^
 @@||auth.samsungosp.com^
+@@||wpad.lan^
+@@||lan.lan^
+@@||ddns.glddns.com^
+@@||vm*.glddns.com^
+@@||checkip.dyndns.com^
