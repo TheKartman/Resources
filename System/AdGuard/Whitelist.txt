@@ -1218,18 +1218,6 @@
 @@||eu*rgn.file.samsungcloud.com^
 @@||auth.samsungosp.com^
 @@||osb-apps.samsungqbe.com^
-# Docker / Kubernetes
-@@||registry.k8s.io^
-@@||pkgs.k8s.io^
-@@||prod-cdn.packages.k8s.io^
-@@||_https._tcp.pkgs.k8s.io^
-@@||_https._tcp.prod-cdn.packages.k8s.io^
-@@||get.helm.sh^
-@@||europe-*-docker.pkg.dev^
-@@||auth.docker.io^
-@@||registry-*.docker.io^
-@@||production.cloudflare.docker.com^
-@@||devops-ts.centurygame.com^
 @@||signal-spam.fr^
 @@||*.signal-spam.fr^
 @@||virustotal.com^
@@ -1416,3 +1404,17 @@
 @@||global-inbound-latency.plex.bz^
 @@||global-inbound-location.plex.bz^
 @@||amg*-fastmediabackbo-y-a-que-la-verite-qui-plex-*.amagi.tv^
+# Docker / Kubernetes
+@@||registry.k8s.io^
+@@||pkgs.k8s.io^
+@@||prod-cdn.packages.k8s.io^
+@@||_https._tcp.pkgs.k8s.io^
+@@||_https._tcp.prod-cdn.packages.k8s.io^
+@@||get.helm.sh^
+@@||europe-*-docker.pkg.dev^
+@@||auth.docker.io^
+@@||registry-*.docker.io^
+@@||production.cloudflare.docker.com^
+@@||devops-ts.centurygame.com^
+@@||update.traefik.io^
+@@||collect.traefik.io^
