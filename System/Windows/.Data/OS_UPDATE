@@ -1,8 +1,8 @@
 @ECHO OFF
 ECHO ##################
-ECHO ## EN-001-00.05 ##
+ECHO ## EN-001-00.06 ##
 ECHO ##################
-ECHO ### 12-06-2024 ###
+ECHO ### 22-10-2024 ###
 ECHO ##################
 ECHO .
 
@@ -26,7 +26,25 @@ GOTO check_Permissions
 CLS
 
 
-ECHO ETAPE 1 - MAJ Heure
+ECHO ETAPE 1 - Nettoyage des caches
+ECHO ==============================
+ECHO Cache Windows
+ECHO -------------
+C:
+CD %Windir%\Prefetch
+DEL /f /s /q *.pf
+ECHO Cache DNS
+ECHO ---------
+POWERSHELL Clear-DnsClientCache
+ECHO Cache icones explorateur Windows
+ECHO --------------------------------
+DEL /f /s /q %localappdata%\Microsoft\Windows\Explorer\iconcache_*.db
+ECHO Cache Microsoft Store
+ECHO ---------------------
+WSReset.exe
+CLS
+
+ECHO ETAPE 2 - MAJ Heure
 ECHO ===================
 net start w32time
 w32tm /config /manualpeerlist:"time.windows.com" /syncfromflags:manual /reliable:yes /update
@@ -34,7 +52,7 @@ w32tm /resync
 CLS
 
 
-ECHO ETAPE 2 - MAJ Antivirus
+ECHO ETAPE 3 - MAJ Antivirus
 ECHO =======================
 cd %ProgramFiles%\Windows Defender
 MpCmdRun.exe -removedefinitions -dynamicsignatures
@@ -42,7 +60,7 @@ MpCmdRun.exe -SignatureUpdate
 CLS
 
 
-ECHO ETAPE 3 - MAJ Windows
+ECHO ETAPE 4 - MAJ Windows
 ECHO =====================
 NET STOP WUAUSERV
 C:
@@ -56,7 +74,7 @@ UsoClient /StartInstall
 CLS
 
 
-ECHO ETAPE 4 - MAJ logiciels
+ECHO ETAPE 5 - MAJ logiciels
 ECHO =======================
 ECHO Listage des MAJ :
 winget list --upgrade-available
@@ -65,12 +83,12 @@ winget upgrade --all
 CLS
 
 
-ECHO ETAPE 5 - MAJ Office
+ECHO ETAPE 6 - MAJ Office
 ECHO ====================
 "C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe" /update user displaylevel=false forceappshutdown=true
 CLS
 
-ECHO ETAPE 6 - Nettoyage des fichiers temporaires Windows
+ECHO ETAPE 7 - Nettoyage des fichiers temporaires Windows
 ECHO ====================================================
 cleanmgr /sagerun:1
 CLS
